@@ -6,7 +6,7 @@ I enjoy solving real world problems with data, whether that means developing mac
 I'm currently building my portfolio website and working on projects in machine learning, analytics, and software development.
 
 ---
-🌐 Portfolio: [Coming Soon]
+🌐 Portfolio: [Coming Soon];
 📫 Reach me at: vizepeda12@gmail.com
 
 ---
