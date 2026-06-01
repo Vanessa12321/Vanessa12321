@@ -6,11 +6,27 @@ I enjoy solving real world problems with data, whether that means developing mac
 I'm currently building my portfolio website and working on projects in machine learning, analytics, and software development.
 
 ---
-🌐 Portfolio: [Coming Soon] \n
+
+## Currently Working On
+
+🏠 Nashville Housing Data Analytics Project
+
+- Cleaning and transforming raw housing data
+- Performing exploratory data analysis (EDA)
+- Creating interactive Tableau dashboards
+- Building Excel dashboards for business reporting
+- Documenting the project end-to-end on GitHub
+
+---
+
+🌐 Portfolio: [Coming Soon]
+
 📫 Reach me at: vizepeda12@gmail.com
 
 ---
+
 ## Tech Stack
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
