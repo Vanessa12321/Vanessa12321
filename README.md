@@ -7,8 +7,8 @@ I'm currently building my portfolio website and working on projects in machine l
 
 ---
 🌐 Portfolio: [Coming Soon]
-
 📫 Reach me at: vizepeda12@gmail.com
+
 ---
 ## Tech Stack
 ### Languages
