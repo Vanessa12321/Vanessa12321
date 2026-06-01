@@ -1,6 +1,16 @@
 ## Hi there 👋
-## Tech Stack
+I'm Vanessa, a data science graduate based in the United States.
 
+I enjoy solving real world problems with data, whether that means developing machine learning models, creating visualizations, or building applications that make information more accessible.
+
+I'm currently building my portfolio website and working on projects in machine learning, analytics, and software development.
+
+---
+🌐 Portfolio: [Coming Soon]
+
+📫 Reach me at: vizepeda12@gmail.com
+---
+## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
