@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Vanessa, a data science graduate based in the United States.
+I'm Vanessa, a data science professional with a bachelor's degree, based in the United States.
 
 I enjoy solving real world problems with data, whether that means developing machine learning models, creating visualizations, or building applications that make information more accessible.
 
